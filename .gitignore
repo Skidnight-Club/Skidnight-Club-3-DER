@@ -1,0 +1,18 @@
+## Folders
+**/.vscode
+**/.vs*
+**/__pycache__
+
+**/bin
+**/lib
+**/build
+
+## Extensions
+**/*.a
+**/*.o
+**/*.so
+**/*.dll
+**/*.exe
+**/*.lib
+**/*.obj
+**/*.pyc
